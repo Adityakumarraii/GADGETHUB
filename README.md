@@ -69,12 +69,6 @@ CRUD Operations: Full product and user management features.
 
 Version Control: Git and GitHub for collaborative development.
 
-🖼️ Screenshots
-
-Landing Page	Features Page	Platform Screenshot
-		
-Note: Make sure the images are uploaded to /assets folder or update the path accordingly.
-
 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 
