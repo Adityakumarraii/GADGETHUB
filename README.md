@@ -3,6 +3,9 @@ GadgetHub is a premier online marketplace, designed exclusively for electronics 
 We specialize in offering a trusted platform where customers can explore, discover, and transact across diverse categories of gadgets with ease and security.
 
 Our focus is on building a dynamic, user-friendly, and mobile-compatible environment to empower users and vendors alike in managing their tech-related needs.
+📸 Project Screenshots & Visual Representation
+Here’s a glimpse into GadgetHub’s core modules through screenshots:
+https://github.com/Adityakumarraii/GADGETHUB/tree/115b88a1c8dae7cf4e794c7a03e982f8e790f261/src
 
 ✨ Extended Description
 At GadgetHub, we aim to redefine the online shopping experience for gadgets and electronics by providing:
