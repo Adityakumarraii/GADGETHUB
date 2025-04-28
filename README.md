@@ -100,13 +100,7 @@ Configure your Oracle database and update the DB credentials.
 
 Deploy the project on a Java EE server like Apache Tomcat.
 
-Access the app at:
-
-arduino
-Copy
-Edit
-http://localhost:8080/GADGETHUB
 📬 Contact
 For queries, collaborations, or support:
-📧 Email: [your-email@example.com]
+📧 Email: kumarraiaditya476@gmail.com
 
